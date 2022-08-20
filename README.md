@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Talalmahmud
-- 👀 I’m interested in programming(python).
+- 👀 I’m interested in full stack web developer.
 - 🌱 I’m currently learning machine learning.
 
 
