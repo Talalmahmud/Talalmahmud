@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Talalmahmud
-.I'm a problem solver.
+- ✨ I'm a MERN developer
+- ✨I'm a problem solver.
 - 👀 I’m interested in full stack web developer.
-- I'm a MERN developer
+
 
 
 <!---
