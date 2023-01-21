@@ -2,7 +2,7 @@
 - ✨ I'm a MERN developer
 - ✨I'm a problem solver.
 - 👀 I’m interested in full stack web developer.
-<b>Skills in</b>
+<br><b>Skills in</b>
 - React JS
 - Node JS
 - Express JS
