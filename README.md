@@ -6,8 +6,11 @@
 - React JS
 - Node JS
 - Express JS
+- Next JS
 - HTML
 - CSS
+- Tailwind
+- SASS
 - JavaScript
 - MongoDB
 - Sql
