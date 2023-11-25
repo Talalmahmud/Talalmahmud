@@ -15,6 +15,4 @@
 - MongoDB
 - Sql
 - Python
-
-
-
+- Next Auth
