@@ -10,12 +10,14 @@
 - HTML
 - CSS
 - Tailwind
+- Figma
 - SASS
 - JavaScript
 - MongoDB
 - Sql
 - Python
 - Next Auth
+- Prisma
 
 <!--START_SECTION:badges-->
 
