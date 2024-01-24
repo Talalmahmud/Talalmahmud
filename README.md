@@ -16,3 +16,21 @@
 - Sql
 - Python
 - Next Auth
+
+<!--START_SECTION:badges-->
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <username_credly> # optional, but default will use the same from github
+<!--END_SECTION:badges-->
