@@ -4,6 +4,7 @@
 - 👀 I’m interested in full stack web developer.
 <br><b>Skills in</b>
 - React JS
+- Redux Toolkit
 - Node JS
 - Express JS
 - Next JS
