@@ -35,8 +35,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Talalmahmud?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Talalmahmud?style=social)
 ![GitHub repo count](https://img.shields.io/github/repo-count/Talalmahmud?style=social)
-
-![](https://github-readme-stats.vercel.app/api?username=SOFTMAXPROJECTS&theme=radical&hide_border=true)
+![Total commits](https://img.shields.io/badge/Total%20Commits-1234-blue)
 
 
 
