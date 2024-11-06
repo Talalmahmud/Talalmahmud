@@ -37,7 +37,6 @@
 ![GitHub repo count](https://img.shields.io/github/repo-count/Talalmahmud?style=social)
 
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
