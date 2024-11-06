@@ -36,7 +36,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Talalmahmud?style=social)
 ![GitHub repo count](https://img.shields.io/github/repo-count/Talalmahmud?style=social)
 
-![](https://github-readme-stats.vercel.app/api?username=SOFTMAXPROJECTS&theme=radical&hide_border=true)" >> README.md
+![](https://github-readme-stats.vercel.app/api?username=SOFTMAXPROJECTS&theme=radical&hide_border=true)
 
 
 
