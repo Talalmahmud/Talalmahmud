@@ -28,21 +28,7 @@
 </div>
 
 ###
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Talalmahmud&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalmahmud&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talalmahmud&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
-    </td>
-  </tr>
-</table>
+
 
 
 
