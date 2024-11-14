@@ -25,9 +25,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Talalmahmud&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
-    <td>
+<!--     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalmahmud&theme=radical&hide_border=true" />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td colspan="2" align="center">
