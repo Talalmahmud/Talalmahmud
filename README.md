@@ -30,6 +30,9 @@
 ###
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SOFTMAXPROJECTS/https://github.com/SOFTMAXPROJECTS/softmax-hrm.git/main/path/to/generated-stats.svg" alt="Custom Contribution Stats" />
+</div>
 
 
 ---
