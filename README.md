@@ -3,23 +3,45 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Talal+Mahmud!" />
   </h1>
+  <p>
+    <em>MERN Developer | Problem Solver | Aspiring Full Stack Developer</em>
+  </p>
 </div>
 
+---
 
-<p align="center">
-  <em>MERN Developer | Problem Solver | Aspiring Full Stack Developer</em>
-</p>
+### 👨‍💻 About Me
+- 🌱 **I’m a passionate MERN developer** who loves tackling complex problems with creative solutions.
+- 🔥 **Currently working on:** Building full-stack applications and enhancing my skillset.
+- 🤔 **Exploring:** Full-stack development, DevOps, and AI integrations.
+- 💬 **Ask me about:** JavaScript, React, Node.js, and backend optimizations.
+- 🌟 **Hobbies:** Competitive coding, learning new tech, and playing video games.
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 **I’m a passionate MERN developer** who loves tackling complex problems with creative solutions.
-- 🔥 Currently working on building full-stack applications and enhancing my skillset.
-- 👀 Interested in exploring more about full stack development, DevOps, and AI integrations.
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,js,html,css,tailwind,vscode,git,github,figma&theme=light" />
+</div>
+
+---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-mahmud2)
+<div align="center">
+  <a href="https://www.linkedin.com/in/talal-mahmud2">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:talal@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
 ---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talal
+
 
 
 
