@@ -1,4 +1,4 @@
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalmahmud&theme=radical&hide_border=true" />
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Talal+Mahmud!" />
@@ -44,8 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Talalmahmud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Talalmahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalmahmud&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Talalmahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 
 </div>
 
