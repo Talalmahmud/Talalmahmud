@@ -15,6 +15,8 @@
 - 🤔 **Exploring:** Full-stack development, DevOps, and AI integrations.
 - 💬 **Ask me about:** JavaScript, React, Node.js, and backend optimizations.
 - 🌟 **Hobbies:** Competitive coding, learning new tech, and playing video games.
+## 🌐 Portfolio
+[Visit My Portfolio](https://talalmahmud.vercel.app/)
 
 ---
 
