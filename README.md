@@ -13,7 +13,7 @@
 - 🌱 **I’m a passionate MERN developer** who loves tackling complex problems with creative solutions.
 - 🔥 **Currently working on:** Building full-stack applications and enhancing my skillset.
 - 🤔 **Exploring:** Full-stack development, DevOps, and AI integrations.
-- 💬 **Ask me about:** JavaScript, React, Node.js, and backend optimizations.
+- 💬 **Ask me about:** JavaScript, React, Next.js, Node.js, and backend optimizations.
 - 🌟 **Hobbies:** Competitive coding, learning new tech, and playing video games.
 ## 🌐 Portfolio
 [Visit My Portfolio](https://talalmahmud.vercel.app/)
